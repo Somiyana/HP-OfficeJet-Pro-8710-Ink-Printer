@@ -8,7 +8,7 @@ exclude_patterns = []
 
 
 html_js_files = [
-    'livechat.js',
+    'chatbot.js',
 ]
 
 html_favicon = '_static/download.png'
