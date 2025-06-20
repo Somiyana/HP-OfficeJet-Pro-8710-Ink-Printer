@@ -21,5 +21,4 @@ document.addEventListener("DOMContentLoaded", function () {
 html_js_files = [
     'chatbot.js',
 ]
-this code for conf.py
  
